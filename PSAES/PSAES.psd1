@@ -98,10 +98,10 @@ PrivateData = @{
         # Tags = @('Exchange Web Service')
 
         # A URL to the license for this module.
-        # LicenseUri = 'https://github.com/OfficeDev/ews-managed-api/blob/master/license.txt'
+        # LicenseUri = 'https://github.com/mgajda83/PSAES/blob/main/LICENSE'
 
         # A URL to the main website for this project.
-        # ProjectUri = 'https://github.com/OfficeDev/ews-managed-api'
+        # ProjectUri = 'https://github.com/mgajda83/PSAES'
 
         # A URL to an icon representing this module.
         # IconUri = ''
